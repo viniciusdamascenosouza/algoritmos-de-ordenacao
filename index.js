@@ -8,4 +8,4 @@ for (let atual = 0; atual < precoLivros.length; atual++) {
   }
 }
 
-console.log(`O livro mais barato custa ${precoLivros[maisBarato]}`);
+console.log(`O livro mais barato custa ${precoLivros[maisBarato]} reais.`);
